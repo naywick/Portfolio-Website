@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to my portfolio website! If you have any feedback, suggestions or fun project ideas (like playing with a Raspberry Pi!) please get in touch.
 
-Things you may want to cover:
+* Ruby version - 2.6.0
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails version - 5.2.2
