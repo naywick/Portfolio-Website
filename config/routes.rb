@@ -12,4 +12,6 @@ Rails.application.routes.draw do
   end
 
   root to: 'pages#home'
+
+  # TODO: potentially add some globbing to redirect when people type in the URL bar.
 end
