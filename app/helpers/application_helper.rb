@@ -8,4 +8,8 @@ module ApplicationHelper
        (link_to "Login", new_user_session_path)
      end
   end
+
+  def copyright_generator
+    PortfolioWebsiteViewTool::Renderer.copyright 'Nayela Wickramasuriya', 'All rights reserved'
+  end
 end
