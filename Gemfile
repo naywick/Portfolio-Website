@@ -64,6 +64,8 @@ gem 'devise', '~> 4.7.1'
 
 gem 'bootstrap', '~> 4.3.1'
 
+gem 'sprockets-rails', :require => 'sprockets/railtie'
+
 gem 'jquery-rails'
 
 gem 'nayelawick_view_tool', git: 'https://github.com/naywick/nayelawick_view_tool'
