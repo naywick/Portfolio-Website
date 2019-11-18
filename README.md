@@ -2,6 +2,6 @@
 
 Welcome to my portfolio website! If you have any feedback, suggestions or fun project ideas (like playing with a Raspberry Pi!) please get in touch.
 
-* Ruby version - 2.6.0
+* Ruby version - 2.6.5
 
-* Rails version - 5.2.2
+* Rails version - 5.2.3
